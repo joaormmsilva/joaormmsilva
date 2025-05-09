@@ -1,5 +1,5 @@
 <h1>João silva</h1>
-<p> Olá Sou João Renato Moreira Mendes da Silva tenho 22 anos e estou estudando para virar um programador de Front-end<br><br> </p>
+<p> Olá Sou João Renato Moreira Mendes da Silva tenho 22 anos e estou estudando para mudar de carreira e virar um programador de Front-end<br><br> </p>
 - 📚 Sou estudante de analise e desenvolvimento de sistemas
 <!--
 **Joao-Renato-Silva/Joao-Renato-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
