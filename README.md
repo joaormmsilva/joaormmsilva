@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Conteúdo do README.md formatado em Markdown
-readme_content = """\
 # ✨ João Renato Moreira Mendes da Silva
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** em transição de carreira para a área de **programação**.  
@@ -22,11 +19,6 @@ Tenho interesse em desenvolvimento web com foco em **Python**, **JavaScript**, *
 ## 📫 Contato
 
 - 📧 joaormmsilva@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-renato-moreira-mendes-da-silva-926734351/)
-- 💻 [GitHub](https://github.com/joaormmsilva)
+- 💼 linkedin.com/in/joão-renato-moreira-mendes-da-silva-926734351
+- 💻 github.com/joaormmsilva
 """
-
-# Caminho para salvar o arquivo
-file_path = Path("/mnt/data/README.md")
-file_path.write_text(readme_content, encoding="utf-8")
-file_path.name
