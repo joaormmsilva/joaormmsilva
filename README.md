@@ -20,5 +20,5 @@ Tenho interesse em desenvolvimento web com foco em **Python**, **JavaScript**, *
 
 - 📧 joaormmsilva@gmail.com
 - 💼 www.linkedin.com/in/joão-renato-moreira-mendes-da-silva-926734351
-- 💻 github.com/joaormmsilva
+- 💻 [github.com/joaormmsilva](https://github.com/joaormmsilva)
 
