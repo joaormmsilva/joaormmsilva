@@ -1,19 +1,32 @@
-<h1>João silva</h1>
-<p> Olá Sou João Renato Moreira Mendes da Silva tenho 22 anos e estou estudando para mudar de carreira e virar um programador<br><br> </p>
-- 📚 Sou estudante de analise e desenvolvimento de sistemas<Br>
-- 🎮 Tenho como hobby  Jogar videogame, tirar fotos e tocar instrumenetos<Br>
-- 🐱 Amo animais principalmente felinos e sou formado como Tecnico Veterinario
-<!--
-**Joao-Renato-Silva/Joao-Renato-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+from pathlib import Path
 
-Here are some ideas to get you started:
+# Conteúdo do README.md formatado em Markdown
+readme_content = """\
+# ✨ João Renato Moreira Mendes da Silva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** em transição de carreira para a área de **programação**.  
+Tenho interesse em desenvolvimento web com foco em **Python**, **JavaScript**, **HTML/CSS** e estou sempre em busca de novos aprendizados.
+
+🎮 Gosto de videogames, fotografia e tocar instrumentos.  
+🐾 Sou formado como Técnico Veterinário e tenho grande carinho por animais, especialmente felinos.
+
+## 🔧 Tecnologias que estou aprendendo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📫 Contato
+
+- 📧 joaormmsilva@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-renato-moreira-mendes-da-silva-926734351/)
+- 💻 [GitHub](https://github.com/joaormmsilva)
+"""
+
+# Caminho para salvar o arquivo
+file_path = Path("/mnt/data/README.md")
+file_path.write_text(readme_content, encoding="utf-8")
+file_path.name
