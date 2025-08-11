@@ -18,7 +18,7 @@ Desenvolvedor Front-End e Python Jr. apaixonado por tecnologia, aprendizado cont
 
 ## 📌 Repositórios em destaque
 
-🔎 [**Tabuleiro de Jogos**]([https://github.com/joaormmsilva/buscador_vagas](https://github.com/joaormmsilva/TabuleiroDeJogos)) — Script em Python com Selenium que automatiza a busca de vagas de emprego no LinkedIn e InfoJobs. 
+🔎 [**Tabuleiro de Jogos**]([https://github.com/joaormmsilva/TabuleiroDeJogos) — Script em Python com Selenium que automatiza a busca de vagas de emprego no LinkedIn e InfoJobs. 
 
 🎲 [**sorteador_bingo**](https://github.com/joaormmsilva/sorteador_bingo) — Projeto simples de sorteio estilo bingo em Python com interface Tkinter.
 
