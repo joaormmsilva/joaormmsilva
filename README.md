@@ -26,8 +26,6 @@ Desenvolvedor Front-End e Python Jr. apaixonado por tecnologia, aprendizado cont
 
 🛒 [**DevClub_Store**](https://github.com/joaormmsilva/DevClub_Store) — Front-end de loja virtual, utilizando HTML, CSS e JavaScript.
 
-🧮 [**Contador**](https://github.com/joaormmsilva/Contador) — Contador com incrementos e decrementos usando eventos JS.
-
 ---
 
 ## 📈 GitHub Stats
