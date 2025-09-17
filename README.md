@@ -20,11 +20,11 @@ Desenvolvedor Front-End e Python Jr. apaixonado por tecnologia, aprendizado cont
 
 🔎 [**Tabuleiro de Jogos**](https://github.com/joaormmsilva/TabuleiroDeJogos) — Script em Python com Selenium que automatiza a busca de vagas de emprego no LinkedIn e InfoJobs. 
 
+⚙️ [**Automatizacoes**](https://github.com/joaormmsilva/Automatizacoes) — Produção de automatizações com pyAutoGui e selenium.
+
 🎲 [**sorteador_bingo**](https://github.com/joaormmsilva/sorteador_bingo) — Projeto simples de sorteio estilo bingo em Python com interface Tkinter.
 
 🛒 [**DevClub_Store**](https://github.com/joaormmsilva/DevClub_Store) — Front-end de loja virtual, utilizando HTML, CSS e JavaScript.
-
-⏰ [**RelogioHoraAtual**](https://github.com/joaormmsilva/RelogioHoraAtual) — Relógio digital simples usando JavaScript e DOM.
 
 🧮 [**Contador**](https://github.com/joaormmsilva/Contador) — Contador com incrementos e decrementos usando eventos JS.
 
